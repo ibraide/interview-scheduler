@@ -1,0 +1,6 @@
+{
+  "name": "interview-scheduler",
+  "scripts": {
+    "test": "jest"
+    }
+}
