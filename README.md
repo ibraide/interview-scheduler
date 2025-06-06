@@ -19,12 +19,11 @@ A clean and interactive **Interview Scheduler** application built with **HTML, C
 
 ## 📂 Project Structure
 
-interview-scheduler/
-├── interview-scheduler.html # Main HTML file
-├── interview-scheduler.js # Main JavaScript file
-├── interview-scheduler.css # All project CSS styles
-├── scheduler.test.js # Unit test for time slots
-├── package.json # 
+- interview-scheduler.html # Main HTML file
+- interview-scheduler.js # Main JavaScript file
+- interview-scheduler.css # All project CSS styles
+- scheduler.test.js # Unit test for time slots
+- package.json # To manage dependencies and metadata
 
 ## ✅ How It Works
 
