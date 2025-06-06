@@ -2,5 +2,9 @@
   "name": "interview-scheduler",
   "scripts": {
     "test": "jest"
-    }
+    },
+  "dependencies": {
+    "jest": "latest"
+  },
+  "devDependencies": {}
 }
